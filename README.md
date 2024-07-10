@@ -271,6 +271,7 @@ skip
 ### What is the SHA256 hash of your final shim binary?
 *******************************************************************************
 9fd8ca20c5245a38b2a45c2b9c7b48d0ef8eeb0aa42a882b41a892eca3e8b72a  shimx64.efi
+ce30b60229ba5ce5a01d778a93ac2cb1d3600a3049a527d6916e243bc13e940a  shimia32.efi
 
 *******************************************************************************
 ### How do you manage and protect the keys used in your shim?
