@@ -256,8 +256,8 @@ Yes
 ### Which files in this repo are the logs for your build?
 This should include logs for creating the buildroots, applying patches, doing the build, creating the archives, etc.
 *******************************************************************************
-* ```shim_15.8-1_amd64.log```
-* ```shim_15.8-1_i386.log```
+* ```shim_15.8-1~deb10u2_amd64.build```
+* ```shim_15.8-1~deb10u2_i386.build```
 
 *******************************************************************************
 ### What changes were made in the distro's secure boot chain since your SHIM was last signed?
