@@ -309,28 +309,36 @@ them. The current entries are:
 
 grub (unmodified from Debian 10 buster):
 
+```
 sbat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
 grub,4,Free Software Foundation,grub,2.06,https://www.gnu.org/software/grub/
 grub.debian,4,Debian,grub2,2.06-3~deb10u4,https://tracker.debian.org/pkg/grub2
+```
 
 fwupd (unmodified from Debian 10 buster):
 
+```
 sbat,1,UEFI shim,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
 fwupd,1,Firmware update daemon,fwupd,1.2.14,https://github.com/fwupd/fwupd
 fwupd.debian,1,Debian,fwupd,1.2.14-1~deb10u1,https://tracker.debian.org/pkg/fwupd
+```
 
 fwupdate (unmodified from Debian 10 buster):
 
+```
 sbat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
 fwupdate,1,UEFI firmware update tool,fwupdate,12,https://github.com/rhboot/fwupdate
 fwupdate.debian,1,Debian,fwupdate,12-4+deb10u4,https://tracker.debian.org/pkg/fwupdate
+```
 
 shim:
 
+```
 sbat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
 shim,4,UEFI shim,shim,1,https://github.com/rhboot/shim
 shim.debian,1,Debian,shim,15.8,https://tracker.debian.org/pkg/shim
 shim.freexian,1,Freexian,shim,15.8,https://deb.freexian.com/extended-lts/pool/main/s/shim/
+```
 
 *******************************************************************************
 ### If shim is loading GRUB2 bootloader, which modules are built into your signed GRUB2 image?
