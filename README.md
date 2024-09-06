@@ -215,6 +215,7 @@ https://salsa.debian.org/lts-team/packages/linux/-/tree/buster-security-5.10/deb
 *******************************************************************************
 Our current kernel (the one in Debian 10 buster) does not use ephemeral
 keys. However we're preparing to switch to that on the next kernel update.
+Our last update (still in the testing phase) adds ephemeral keys.
 For old modules signed by the Debian key, we rely on their revocations for
 now.
 
